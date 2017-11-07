@@ -1,3 +1,3 @@
 # gitmoji-police-test
 
-Yay!
+Yay! Hell yeah!
