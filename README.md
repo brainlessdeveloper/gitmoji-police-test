@@ -2,6 +2,6 @@
 
 Yay! Hell no! I mean whatever!
 
-Oh well.
+Oh well. Whatever.
 
 I really dislike gitmojis.
