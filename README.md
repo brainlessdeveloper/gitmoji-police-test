@@ -1,3 +1,5 @@
 # gitmoji-police-test
 
-Yay!
+Yay! Hell no! I mean whatever!
+
+I really dislike gitmojis.
